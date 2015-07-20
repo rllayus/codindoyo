@@ -17,6 +17,7 @@ public class CodinDoyo extends javax.swing.JFrame {
      */
     public CodinDoyo() {
         initComponents();
+        
     }
 
     /**
