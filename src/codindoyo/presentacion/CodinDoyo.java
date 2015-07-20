@@ -17,6 +17,7 @@ public class CodinDoyo extends javax.swing.JFrame {
      */
     public CodinDoyo() {
         initComponents();
+        
     }
 
     /**
@@ -62,6 +63,7 @@ public class CodinDoyo extends javax.swing.JFrame {
         // TODO add your handling code here:
         PEntero entero=new PEntero();
         entero.setVisible(true);
+        System.out.println("Holla");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
